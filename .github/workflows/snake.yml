@@ -1,0 +1,34 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:      # allows manual run
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake game from GitHub contribution grid
+        uses: Platane/snk@v3.3.0
+        with:
+          github_user_name: turkishdelightmu
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=blue
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#7845ab
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist"
+          message: "update snake animation"
+
