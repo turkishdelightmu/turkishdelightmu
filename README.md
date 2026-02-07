@@ -2,15 +2,9 @@
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd6NnJmeTM4eXRkaHo4ZHpmeGVvbW1vaGdrdjZlaDFlbHJ5MjhsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Turkish Delight</h1>
-<h3 align="center">A passionate developer based in Mauritius</h3>
+<h1 align="center">Hi 👋, I'm Ilayda</h1>
+<h3 align="center">A aspiring developer based in Mauritius</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/itaneri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-
-</div>
 
 <h2 align="left">About Me:</h2>
 
