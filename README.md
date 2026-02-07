@@ -1,52 +1,42 @@
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd6NnJmeTM4eXRkaHo4ZHpmeGVvbW1vaGdrdjZlaDFlbHJ5MjhsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Turkish Delight</h1>
 <h3 align="center">A passionate developer based in Mauritius</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/itaneri/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+
+</div>
 
 <h2 align="left">About Me:</h2>
 
 - 🔭 I’m currently working on [Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **CSS**
 
-- 📫 How to reach me **turkishdelightco24@gmail.com**
+- 📫 How to reach me **turkishdelightmu@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
 
-<div>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
-
-<h2 align="left">Stats:</h2>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TurkishDelightCo&show_icons=true&theme=vue-dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TurkishDelightCo&show_icons=true&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=TurkishDelightCo&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishDelightCo&theme=vue-dark&card_width=250px&show_icons=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishDelightCo&theme=vue&card_width=250px&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishDelightCo&card_width=250px&show_icons=true" />
-</picture>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://dev.to/turkishdelightco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="turkishdelightco" height="30" width="40" /></a>
-<a href="https://twitter.com/turkishdelco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="turkishdelco" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28223398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28223398" height="30" width="40" /></a>
-<a href="https://instagram.com/turkishdelightco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turkishdelightco" height="30" width="40" /></a>
+<a href="https://twitter.com/tdcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tdcodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itaneri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itaneri" height="30" width="40" /></a>
 </p>
 
 ###
+
