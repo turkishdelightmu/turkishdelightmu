@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning Full Stack Development
 
 - 📫 How to reach me **turkishdelightmu@gmail.com**
 
