@@ -23,6 +23,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://forum.obsidian.md/uploads/default/original/3X/a/9/a9a34885821fff8941270ccd6e2ca923c83801b2.png" height="45" alt="obsidian logo"  />
+  <img width="12" />
 </div>
 
 <h2 align="left">Connect with me:</h2>
