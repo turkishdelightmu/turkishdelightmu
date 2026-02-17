@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
-<h3 align="center">A aspiring developer based in Mauritius</h3>
+<h3 align="center">An aspiring developer based in Mauritius</h3>
 
 
 <h2 align="left">About Me:</h2>
