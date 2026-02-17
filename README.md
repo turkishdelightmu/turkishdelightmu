@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **CSS and  Python**
 
-- 📫 How to reach me **turkishdelightmu@gmail.com**
+- 📫 How to reach me **LinkedIn + Email**
 
 <h2 align="left">Languages and Tools:</h2>
 
