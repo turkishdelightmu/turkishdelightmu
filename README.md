@@ -5,8 +5,11 @@
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
 <h3 align="center">An aspiring developer based in Mauritius</h3>
 
-
-<h2 align="left">About Me:</h2>
+<h2 align="left">
+  <img src="https://github.com/turkishdelightmu/turkishdelightmu/blob/main/pixel_art_letters_only_animated.gif"
+       height="40"  alt="me">
+  About Me:
+</h2>
 
 - 🔭 I’m currently working on [Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
 
@@ -31,8 +34,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/tdcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tdcodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itaneri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itaneri" height="30" width="40" /></a>
+  <a href="https://twitter.com/tdcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tdcodes" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/itaneri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itaneri" height="30" width="40" /></a>
 </p>
 
 ###
@@ -42,3 +45,4 @@
   <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="./dist/github-contribution-grid-snake.svg">
 </picture>
+ 
