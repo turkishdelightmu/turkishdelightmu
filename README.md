@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd6NnJmeTM4eXRkaHo4ZHpmeGVvbW1vaGdrdjZlaDFlbHJ5MjhsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"  />
+  <img src="https://github.com/turkishdelightmu/turkishdelightmu/blob/main/pixel%20art%20GIF.gif" alt="me">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
