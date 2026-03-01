@@ -15,7 +15,7 @@
 - ☁️ Building cloud & Azure fundamentals via [Microsoft Learn](https://learn.microsoft.com/en-gb/users/turkishdelightco/)
 - 🐧 Long-time Ubuntu user — I explore Linux concepts hands-on, not just in theory
 - 🤖 Experienced in AI-assisted development workflows (GitHub Copilot, ChatGPT, Claude) — directing, reviewing, and integrating AI-generated code
-- 🌱 Currently learning: **Python · Linux system administration · Cloud/Azure fundamentals**
+- 🌱 Currently learning: **Python · Cloud/Azure fundamentals**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/itaneri) or by email
 
 
