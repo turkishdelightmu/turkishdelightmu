@@ -11,7 +11,7 @@
   About Me:
 </h2>
 
-Former auditor pivoting into tech. I'm working through the [FreeCodeCamp Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) — learning everything from the ground up — and bringing a business mindset to every project I build.
+Former auditor pivoting into tech. I'm working through the [Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) — learning everything from the ground up — and bringing a business mindset to every project I build.
 
 - 🔭 Currently working through the [FreeCodeCamp Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
 - ☁️ Building cloud & Azure fundamentals via [Microsoft Learn](https://learn.microsoft.com/en-gb/users/turkishdelightco/)
