@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
-<h3 align="center">Aspiring Infrastructure & DevOps Engineer · Self-taught · Based in Mauritius 🇲🇺</h3>
+<h3 align="center">Frontend Developer in the making — based in Mauritius 🇲🇺</h3>
 
 <h2 align="left">
   <img src="https://github.com/turkishdelightmu/turkishdelightmu/blob/main/pixel_art_letters_only_animated.gif"
@@ -11,12 +11,15 @@
   About Me:
 </h2>
 
+Former auditor pivoting into tech. I'm working through the [FreeCodeCamp Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) — learning everything from the ground up — and bringing a business mindset to every project I build.
+
 - 🔭 Currently working through the [FreeCodeCamp Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
 - ☁️ Building cloud & Azure fundamentals via [Microsoft Learn](https://learn.microsoft.com/en-gb/users/turkishdelightco/)
 - 🐧 Long-time Ubuntu user — I explore Linux concepts hands-on, not just in theory
-- 🤖 Experienced in AI-assisted development workflows (GitHub Copilot, ChatGPT, Claude) — directing, reviewing, and integrating AI-generated code
-- 🌱 Currently learning: **Python · Cloud/Azure fundamentals**
+- 🎯 Goal: Land my first developer role
+- 🌱 Currently learning: **CSS** · **Python** · **Cloud/Azure fundamentals**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/itaneri) or by email
+- 🌐 Portfolio: [turkishdelightmu.github.io/obs-github](https://turkishdelightmu.github.io/obs-github/)
 
 
 
