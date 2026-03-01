@@ -34,7 +34,7 @@ My ongoing coursework from the FreeCodeCamp Full Stack Developer Curriculum — 
 ### 🌐 [obs-github](https://github.com/turkishdelightmu/obs-github)
 My published digital garden / notes site built on **Quartz v4** — where I document my learning and keep technical notes organised. Includes a full TypeScript toolchain and a **Dockerfile** for reproducible builds.
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left"> Languages and Tools:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
