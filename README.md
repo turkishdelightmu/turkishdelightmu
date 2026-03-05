@@ -21,7 +21,7 @@ Former auditor pivoting into tech. I'm working through the [Full Stack Developer
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/itaneri) or by email
 - 🌐 Portfolio: [turkishdelightmu.github.io/obs-github](https://turkishdelightmu.github.io/obs-github/)
 
-
+![GitHub Pixel Tree](https://pixel-tree-jet.vercel.app/api/tree?user=turkishdelightmu&view=card)
 
 ## 🗂️ Featured Projects
 
