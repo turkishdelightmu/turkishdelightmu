@@ -11,13 +11,14 @@
   About Me:
 </h2>
 
-Former auditor pivoting into tech. I'm working through the [Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) — learning everything from the ground up — and bringing a business mindset to every project I build.
+Former auditor turned aspiring developer. I got tired of just reviewing systems and decided to start building them instead — so here I am, learning everything from the ground up and bringing a business brain to every project along the way.
 
 - 🔭 Currently working through the [FreeCodeCamp Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
 - ☁️ Building cloud & Azure fundamentals via [Microsoft Learn](https://learn.microsoft.com/en-gb/users/turkishdelightco/)
-- 🐧 Long-time Ubuntu user — I explore Linux concepts hands-on, not just in theory
+- 🐧 Long-time Ubuntu user — I actually use Linux, not just talk about it
 - 🎯 Goal: Land my first developer role
 - 🌱 Currently learning: **CSS** · **Python** · **Cloud/Azure fundamentals**
+- 💡 In my free time I use AI to bring my own ideas to life — stuff I couldn't build alone just yet: [Meeting Note Cleaner](https://github.com/turkishdelightmu/meeting-app) and [Github Pixel Tree](https://github.com/turkishdelightmu/pixel-tree) are examples.
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/itaneri) or by email
 - 🌐 Portfolio: [turkishdelightmu.github.io/obs-github](https://turkishdelightmu.github.io/obs-github/)
 
@@ -27,8 +28,6 @@ Former auditor pivoting into tech. I'm working through the [Full Stack Developer
 
 ## 🗂️ Featured Projects
 
-### 🧾 [meeting-app](https://github.com/turkishdelightmu/meeting-app)
-A bilingual (EN/FR) meeting transcript cleaner that transforms messy notes into structured summaries, decisions, next steps, and evidence quotes. Built with **Next.js** using AI-assisted development tools (GitHub Copilot, ChatGPT, Claude) — I directed the architecture, defined the structure, and reviewed and integrated the generated code. Includes a **Docker Compose** setup for running a local AI provider (Ollama).
 
 ### 📚 [full-stack-developer](https://github.com/turkishdelightmu/full-stack-developer)
 My ongoing coursework from the FreeCodeCamp Full Stack Developer Curriculum — covering HTML, CSS, JavaScript, React, Python, and more. **150+ commits** reflecting consistent, structured learning progress.
@@ -46,8 +45,6 @@ My published digital garden / notes site built on **Quartz v4** — where I docu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
