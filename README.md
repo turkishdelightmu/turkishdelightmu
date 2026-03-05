@@ -23,7 +23,7 @@ Former auditor pivoting into tech. I'm working through the [Full Stack Developer
 
 ## 🎯 Github Contribution
 
-![GitHub Pixel Tree](https://pixel-tree-jet.vercel.app/api/tree?user=turkishdelightmu&view=card)
+![GitHub Pixel Tree](https://pixel-tree-jet.vercel.app/api/tree?user=turkishdelightmu&view=card&v=20260305)
 
 ## 🗂️ Featured Projects
 
