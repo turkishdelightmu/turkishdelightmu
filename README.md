@@ -11,7 +11,7 @@
   About Me:
 </h2>
 
-Former auditor turned aspiring developer. I got tired of just reviewing systems and decided to start building them instead — so here I am, learning everything from the ground up and bringing a business brain to every project along the way.
+Making the quiet switch from auditor to developer. No shortcuts, just learning in the open and building as I go.
 
 - 🔭 Currently working through the [FreeCodeCamp Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
 - ☁️ Building cloud & Azure fundamentals via [Microsoft Learn](https://learn.microsoft.com/en-gb/users/turkishdelightco/)
