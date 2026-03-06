@@ -22,12 +22,12 @@ Former auditor turned aspiring developer. I got tired of just reviewing systems 
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/itaneri) or by email
 - 🌐 Portfolio: [turkishdelightmu.github.io/obs-github](https://turkishdelightmu.github.io/obs-github/)
 
-## 🎯 Github Contribution
+## 🎯 Github Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-tree-nbahj92tt-ilaydas-projects-759abe54.vercel.app/api/tree?user=turkishdelightmu&view=card&format=svg&theme=dark&v=20260306-theme-v2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-tree-nbahj92tt-ilaydas-projects-759abe54.vercel.app/api/tree?user=turkishdelightmu&view=card&format=svg&theme=light&v=20260306-theme-v2" />
-  <img alt="GitHub Pixel Tree" src="https://pixel-tree-nbahj92tt-ilaydas-projects-759abe54.vercel.app/api/tree?user=turkishdelightmu&view=card&format=svg&theme=light&v=20260306-theme-v2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-tree-jet.vercel.app/api/tree?user=turkishdelightmu&view=card&format=svg&theme=dark&v=20260306-theme-ui-v2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-tree-jet.vercel.app/api/tree?user=turkishdelightmu&view=card&format=svg&theme=light&v=20260306-theme-ui-v2" />
+  <img alt="GitHub Pixel Tree" src="https://pixel-tree-jet.vercel.app/api/tree?user=turkishdelightmu&view=card&format=svg&theme=light&v=20260306-theme-ui-v2" />
 </picture>
 
 ## 🗂️ Featured Projects
