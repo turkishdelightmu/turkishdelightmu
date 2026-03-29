@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
-<h3 align="center">Developer in the making — based in Mauritius 🇲🇺</h3>
+<h3 align="center">Indie Developer in the making — based in Mauritius 🇲🇺</h3>
 
 <h2 align="left">
   <img src="https://github.com/turkishdelightmu/turkishdelightmu/blob/main/pixel_art_letters_only_animated.gif"
@@ -14,7 +14,7 @@
 Indie developer & founder building in Mauritius. I design and ship products at the intersection of **productivity**, and **software**.
  
 **Previously:** Senior Auditor @ Deloitte
-**Now:** building things that work.
+**Now:** Turning ideas into products.
 
 ## 🎯 Github Activity
 
