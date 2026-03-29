@@ -35,7 +35,7 @@ A terminal-inspired task and life management app for iOS, built in SwiftUI.
 - StoreKit 2 freemium model
 - iOS 17+
  
-> App structure planning, design and development roadmap built with **ChatGPT**, **Claude**, and **Google Stitch.** Learning SwiftUI through Paul Hudson's [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) — shipping alongside the learning curve.
+> I architect the system, make the product decisions, and own every technical choice — using Claude as the execution engine that makes it possible to ship without years of prior iOS experience. Learning SwiftUI through Paul Hudson's 100 Days of SwiftUI — building real understanding alongside a real product. Learning SwiftUI through Paul Hudson's [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) — shipping alongside the learning curve.
  
  
 ## 🗂 Other Projects
