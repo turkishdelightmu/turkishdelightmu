@@ -11,16 +11,10 @@
   About Me:
 </h2>
 
-Making the quiet switch from auditor to developer. No shortcuts, just learning in the open and building as I go.
-
-- 🔭 Currently working through the [FreeCodeCamp Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
-- ☁️ Building cloud & Azure fundamentals via [Microsoft Learn](https://learn.microsoft.com/en-gb/users/turkishdelightco/)
-- 🐧 Long-time Ubuntu user — I actually use Linux, not just talk about it
-- 🎯 Goal: Land my first developer role
-- 🌱 Currently learning: **CSS** · **Python** · **Cloud/Azure fundamentals**
-- 💡 In my free time I use AI to bring my own ideas to life — stuff I couldn't build alone just yet: [Meeting Note Cleaner](https://github.com/turkishdelightmu/meeting-app) and [Github Pixel Tree](https://github.com/turkishdelightmu/pixel-tree) are examples.
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/itaneri) or by email
-- 🌐 Portfolio: [turkishdelightmu.github.io/obs-github](https://turkishdelightmu.github.io/obs-github/)
+Indie developer & founder building in Mauritius. I design and ship products at the intersection of **productivity**, and **software**.
+ 
+**Previously:** Senior Auditor @ Deloitte
+**Now:** building things that work.
 
 ## 🎯 Github Activity
 
@@ -30,36 +24,41 @@ Making the quiet switch from auditor to developer. No shortcuts, just learning i
   <img alt="GitHub Pixel Tree" src="https://pixel-tree-jet.vercel.app/api/tree?user=turkishdelightmu&view=card&format=svg&theme=light&v=20260306-theme-ui-v2" />
 </picture>
 
-## 🗂️ Featured Projects
-
-
-### 📚 [full-stack-developer](https://github.com/turkishdelightmu/full-stack-developer)
-My ongoing coursework from the FreeCodeCamp Full Stack Developer Curriculum — covering HTML, CSS, JavaScript, React, Python, and more. **150+ commits** reflecting consistent, structured learning progress.
-
-### 🌐 [obs-github](https://github.com/turkishdelightmu/obs-github)
-My published digital garden / notes site built on **Quartz v4** — where I document my learning and keep technical notes organised. Includes a full TypeScript toolchain and a **Dockerfile** for reproducible builds.
-
-<h2 align="left"> Languages and Tools:</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  <a href="https://twitter.com/tdcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tdcodes" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/itaneri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itaneri" height="30" width="40" /></a>
-</p>
-
+## 🚧 Currently Building
+ 
+### [TermLife](https://github.com/turkishdelightmu/TermLife) — iOS Productivity App
+ 
+A terminal-inspired task and life management app for iOS, built in SwiftUI.
+ 
+- Command-style interface
+- SwiftData
+- StoreKit 2 freemium model
+- iOS 17+
+ 
+> App structure planning, design and development roadmap built with **ChatGPT**, **Claude**, and **Google Stitch.** Learning SwiftUI through Paul Hudson's [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) — shipping alongside the learning curve.
+ 
+ 
+## 🗂 Other Projects
+ 
+| Project | Stack | Description |
+|---|---|---|
+| `meeting-app` | Next.js · TypeScript · Claude API | Bilingual EN/FR meeting transcript cleaner powered by Anthropic's Claude |
+| `pixel-tree` | Next.js · TypeScript · Redis · Canvas API | GitHub contribution visualiser as pixel art |
+ 
+ 
+## 🛠 How I Build
+ 
+I build with **AI-assisted development** — directing, reviewing, and iterating on code across Swift, TypeScript, and Next.js. Currently learning to write code independently through Paul Hudson's 100 Days of SwiftUI.
+ 
+ 
+## 📬 Connect
+ 
+[![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/tdcodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaneri/)
+[![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%2300b9ef.svg?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/turkishdelightmu)
+ 
+Building in public · Mauritius 🇲🇺
+ 
 ###
 
 <picture>
