@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
-<h3 align="center">Indie Developer in the making — based in Mauritius 🇲🇺</h3>
+<h3 align="center">Indie developer in the making — based in Mauritius 🇲🇺</h3>
 
 <h2 align="left">
   <img src="https://github.com/turkishdelightmu/turkishdelightmu/blob/main/pixel_art_letters_only_animated.gif"
