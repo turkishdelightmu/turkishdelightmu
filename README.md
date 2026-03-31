@@ -26,7 +26,7 @@ Indie developer & founder building in Mauritius. I design and ship products at t
 
 ## 🚧 Currently Building
  
-### [TermLife](https://github.com/turkishdelightmu/TermLife) — iOS Productivity App
+### [cmdLife](https://github.com/turkishdelightmu/cmdLife) — iOS Productivity App
  
 A terminal-inspired task and life management app for iOS, built in SwiftUI.
  
