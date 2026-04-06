@@ -42,13 +42,12 @@ A terminal-inspired task and life management app for iOS, built in SwiftUI.
  
 | Project | Stack | Description |
 |---|---|---|
-| `meeting-app` | Next.js · TypeScript · Claude API | Bilingual EN/FR meeting transcript cleaner powered by Anthropic's Claude |
 | `pixel-tree` | Next.js · TypeScript · Redis · Canvas API | GitHub contribution visualiser as pixel art |
  
  
 ## 🛠 How I Build
  
-I build with **AI-assisted development** — directing, reviewing, and iterating on code across Swift, TypeScript, and Next.js. Currently learning to write code independently through Paul Hudson's 100 Days of SwiftUI.
+I build with **AI-assisted development** — directing, reviewing, and iterating on code across Swift. Currently learning to write code independently through Paul Hudson's 100 Days of SwiftUI.
  
  
 ## 📬 Connect
