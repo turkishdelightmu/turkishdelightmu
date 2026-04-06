@@ -2,7 +2,7 @@
   <img src="https://github.com/turkishdelightmu/turkishdelightmu/blob/main/pixel%20art%20GIF.gif" alt="me">
 </div>
 
-<h1 align="center">Hi 👋, I'm Layla</h1>
+<h1 align="center">Hi 👋, I'm Aisha</h1>
 <h3 align="center">Indie developer in the making — based in Mauritius 🇲🇺</h3>
 
 <h2 align="left">
