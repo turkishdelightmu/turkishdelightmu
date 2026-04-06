@@ -13,7 +13,7 @@
 
 Indie developer & founder building in Mauritius. I design and ship products at the intersection of **productivity**, and **software**.
  
-**Previously:** Senior Auditor @ Deloitte
+**Previously:** Senior Auditor @Deloitte
 **Now:** Turning ideas into products.
 
 ## 🎯 Github Activity
@@ -47,7 +47,7 @@ A terminal-inspired task and life management app for iOS, built in SwiftUI.
  
 ## 🛠 How I Build
  
-I build with **AI-assisted development** — directing, reviewing, and iterating on code across Swift. Currently learning to write code independently through Paul Hudson's 100 Days of SwiftUI.
+I build with **AI-assisted development** — directing, reviewing, and iterating on code across Next.js Typescript and Swift. Currently learning to write code independently through Paul Hudson's 100 Days of SwiftUI.
  
  
 ## 📬 Connect
