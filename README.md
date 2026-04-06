@@ -2,7 +2,7 @@
   <img src="https://github.com/turkishdelightmu/turkishdelightmu/blob/main/pixel%20art%20GIF.gif" alt="me">
 </div>
 
-<h1 align="center">Hi 👋, I'm Ilayda</h1>
+<h1 align="center">Hi 👋, I'm Layla</h1>
 <h3 align="center">Indie developer in the making — based in Mauritius 🇲🇺</h3>
 
 <h2 align="left">
@@ -53,7 +53,6 @@ I build with **AI-assisted development** — directing, reviewing, and iterating
 ## 📬 Connect
  
 [![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/tdcodes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaneri/)
 [![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%2300b9ef.svg?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/turkishdelightmu)
  
 Building in public · Mauritius 🇲🇺
