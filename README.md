@@ -13,7 +13,7 @@
 
 Indie developer & founder building in Mauritius. I design and ship products at the intersection of **productivity**, and **software**.
  
-**Previously:** Senior Auditor @Deloitte
+**Previously:** Senior Auditor @Big4
 **Now:** Turning ideas into products.
 
 ## 🎯 Github Activity
