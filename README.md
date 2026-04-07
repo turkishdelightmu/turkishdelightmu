@@ -53,6 +53,8 @@ I build with **AI-assisted development** — directing, reviewing, and iterating
 ## 📬 Connect
  
 [![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/tdcodes)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/turkishdelightmu/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@turkishdelightmu)
 [![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%2300b9ef.svg?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/turkishdelightmu)
  
 Building in public · Mauritius 🇲🇺
