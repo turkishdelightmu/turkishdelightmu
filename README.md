@@ -6,7 +6,7 @@
 <h2 align="left">
   <img src="https://github.com/turkishdelightmu/turkishdelightmu/blob/main/pixel_art_letters_only_animated.gif"
        height="40" alt="me">
-  About Me: Data Analytics | SQL | Python | Power BI
+  About Me:
 </h2>
 
 Former Senior Auditor at a Big4 firm with a passion for solving business problems through data.
