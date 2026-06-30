@@ -29,8 +29,19 @@ This GitHub showcases my learning journey through hands-on projects, dashboards,
 
 ## 📚 Currently Learning
 
-### 30 Days of Python — [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
-Deliberate technical skill-building. Python as a practical tool for finance, data, and operations work.
+### Data Analytics Roadmap
+
+Building practical data analytics skills through project-based learning rather than isolated tutorials.
+
+**Current focus:**
+
+* **SQL** for querying, joining, and analyzing relational data
+* **Python & Pandas** for data cleaning, transformation, and automation
+* **Power BI** for dashboards and data storytelling
+* **LeetCode SQL & Pandas** for deliberate practice and problem-solving
+
+Everything I learn is applied to real-world projects with the goal of building portfolio-ready work that demonstrates analytical thinking, technical skills, and business insight.
+
 
 ## 🗂 Other Projects
 
@@ -42,11 +53,9 @@ Deliberate technical skill-building. Python as a practical tool for finance, dat
 ## 📬 Connect
 
 [![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/tdcodes)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/turkishdelightmu/)
 [![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%2300b9ef.svg?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/turkishdelightmu)
 
-Building in public · Mauritius 🇲🇺
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
