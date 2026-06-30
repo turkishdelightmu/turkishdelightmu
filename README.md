@@ -11,7 +11,7 @@
 
 Former Senior Auditor @Big4, now learning to build software from the ground up.
 
-SQL and Python is deliberate skill-building for technical roles in finance and operations.
+SQL and Python are deliberate skill-building for technical roles in finance and operations.
 
 **Previously:** Senior Auditor @Big4
 **Now:** Learning to code. Actually.
@@ -38,7 +38,6 @@ Deliberate technical skill-building. Python as a practical tool for finance, dat
 ## 📬 Connect
 
 [![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/tdcodes)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/turkishdelightmu/)
 [![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%2300b9ef.svg?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/turkishdelightmu)
 
 Building in public · Mauritius 🇲🇺
