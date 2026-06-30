@@ -6,15 +6,19 @@
 <h2 align="left">
   <img src="https://github.com/turkishdelightmu/turkishdelightmu/blob/main/pixel_art_letters_only_animated.gif"
        height="40" alt="me">
-  About Me:
+  About Me: Data Analytics | SQL | Python | Power BI
 </h2>
 
-Former Senior Auditor @Big4, now learning to build software from the ground up.
+Former Senior Auditor at a Big4 firm with a passion for solving business problems through data.
 
-SQL and Python are deliberate skill-building for technical roles in finance and operations.
+I'm building practical skills in:
 
-**Previously:** Senior Auditor @Big4
-**Now:** Learning to code. Actually.
+* **SQL** for querying and transforming data
+* **Python** for data analysis and automation
+* **Power BI** for interactive dashboards and data visualization
+* **Statistics** and data storytelling to communicate insights effectively
+
+This GitHub showcases my learning journey through hands-on projects, dashboards, and real-world case studies. My goal is to combine business knowledge with technical skills to deliver data-driven insights that support better decision-making.
 
 ## 🎯 Github Activity
 <picture>
